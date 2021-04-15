@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+  }
+  #titleh1{
+    font-size: 80px;
+    word-spacing: 10px;
+    font-variant: small-caps;
+  }
+  #name{
+    font-size: 35px;
+    font-family: "Comic Sans MS";
+  }
+  #images{
+    padding: 5px;
+  }
